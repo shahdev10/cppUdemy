@@ -20,6 +20,9 @@ int main ()
     int *results = apply_all(array1, 5, array2, 3);
     cout << "Results: " << endl;
     print(results, 15);
+
+    delete [] results;
+    return 0;
 }
 
 void print(int arr[], int size)
