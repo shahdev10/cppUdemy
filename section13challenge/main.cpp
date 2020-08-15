@@ -1,6 +1,6 @@
 #include<iostream>
-#include"movies.h"
-
+//#include"movies.h"
+class movies;
 using namespace std;
 
 void increment_watched(Movies &movies, string name);

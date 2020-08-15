@@ -1,5 +1,5 @@
-#ifdef _MOVIE_H_
-#define _MOVIE_H_
+#ifdef _MOVIES_H_
+#define _MOVIES_H_
 
 #include<string>
 #include<vector>
